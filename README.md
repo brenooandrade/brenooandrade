@@ -1,10 +1,10 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
 
 - 🔭 <b>Currently working</b> as Tech Lead in many different things at the same time and having the responsibility to lead and guide the team at a company in the retail sector.
-- 📚 <b>Learning and trying</b> the best languages and architectures to integrate software solutions. 
-- 🎯 <b>Currently focusing</b> on studying serverless and microservices through cloud computing.
-- ⚡ <b>Skills in</b> TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), a little bit about GCP, PHP, Python,  Queues, Topics, Delphi and a few other tecnhlogys that are able to help me to provide good and secure solutions.
+- 👨🏻‍💼 <b>High capacity</b> to integrate software solutions with partners and APIs using any architecture. 
+- ⚡ <b>Skills in</b> TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP, Python,  Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
 - 💎 <b>Improving</b> my knowledge in Clean architecture using design patterns.
+- 🎯 <b>Currently focusing</b> on studying serverless and microservices through cloud computing.
 - 💬 <b>Can I help you?</b> So, contact me! I always think we can learn and teach everyday with anyone.
 <br> 
 <div align="center">
