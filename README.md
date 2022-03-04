@@ -3,7 +3,7 @@
 - 🔭 <b>Currently working</b> as Tech Lead in many different things at the same time and having the responsibility to lead and guide the team.
 - 📚 <b>Learning and trying</b> the best languages and architectures to integrate software solutions at a company in the retail sector. 
 - 🎯 <b>Currently focusing</b> on studying serverless and microservices through cloud computing.
-- ⚡ <b>Hard Skills</b> in TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), a little bit about GCP, PHP, Python,  Queues, Topics, Delphi and a few other tecnhlogys that are able to help me to provide good and secure solutions.
+- ⚡ <b>Skills in</b> TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), a little bit about GCP, PHP, Python,  Queues, Topics, Delphi and a few other tecnhlogys that are able to help me to provide good and secure solutions.
 - 💎 <b>Improving</b> my knowledge in Clean architecture using design patterns.
 - 💬 <b>Can I help you?</b> So, contact me! I always think we can learn and teach everyday with anyone.
 <br> 
