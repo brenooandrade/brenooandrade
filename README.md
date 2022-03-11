@@ -1,10 +1,6 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
 
   ![HEADER](https://capsule-render.vercel.app/api?type=waving&section=header&height=85&color=3DA47A)
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2500&color=3DA47A&vCenter=true&multiline=true&width=540&height=420&lines=cat+%3E++README.js;+;const+whoAmI+%3D+%7B;%E2%A0%80%E2%A0%80%E2%A0%80aboutMe%3A+%7B;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80name%3A+%22Gabriel+Castilho%22%2C;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80age%3A+23%2C;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80nationality%3A+%22brazilian%22,;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80birthplace%3A+%22El%C3%B3i+Mendes%2C+Minas+Gerais%22;%E2%A0%80%E2%A0%80%E2%A0%80%7D%2C;%E2%A0%80%E2%A0%80%E2%A0%80professionalGoals%3A++%5B;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%22full+stack+developer%22%2C;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%22information+security+analyst%22;%E2%A0%80%E2%A0%80%E2%A0%80%5D;%7D;+;console.log(whoAmI);+">
-    <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width=300>
-  </div>
   #
 
 - 🔭 <b>Currently working</b> as Tech Lead in many different things at the same time and having the responsibility to lead and guide the team at a company in the retail sector.
