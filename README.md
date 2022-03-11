@@ -26,6 +26,27 @@
 </div>
   
   ##
+  
+  <div align="left">
+      <h3>
+        <img alt="TITLE" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=6000&color=3DA47A&vCenter=true&lines=⩾+Stats"/>
+      </h3>
+      <details>
+        <div align="center">
+          <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=brenooandrade&theme=vue-dark&bg_color=0B0F12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+          </div>
+          <div>
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=brenooandrade&theme=vue-dark&background=0B0F12&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD&sideNums=DDDDDD&include_all_commits=true&count_private=true" />
+          </div>
+          <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooandrade&theme=vue-dark&bg_color=0B0F12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+          </div>
+        </div>
+      </details>
+  </div>
+  
+  ##
  
 <div align="center" style="display: inline_block"><br> 
   <a href = "mailto:andrade.brenonovais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
