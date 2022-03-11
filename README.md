@@ -28,10 +28,6 @@
   ##
   
   <div align="left">
-      <h3>
-        <img alt="TITLE" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=6000&color=3DA47A&vCenter=true&lines=⩾+Stats"/>
-      </h3>
-      <details>
         <div align="center">
           <div>
             <img src="https://github-readme-stats.vercel.app/api?username=brenooandrade&theme=vue-dark&bg_color=0B0F12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
@@ -43,7 +39,6 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooandrade&theme=vue-dark&bg_color=0B0F12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
           </div>
         </div>
-      </details>
   </div>
   
   ##
