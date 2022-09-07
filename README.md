@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
-- 🔭 <b>Currently working</b> as Tech Lead in many different things at the same time and having the responsibility to lead and guide the team at a company in the retail sector.
+- 🔭 <b>Currently working</b> as System Devlopment System at Encora inc. taking up great technicals challenges in cloud computing and working with software development projects.
 - 👨🏻‍💼 <b>High capacity</b> to integrate software solutions with partners and APIs using any architecture. 
 - ⚡ <b>Skills in</b> TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP, Python,  Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
 - 💎 <b>Improving</b> my knowledge in Clean architecture using design patterns.
