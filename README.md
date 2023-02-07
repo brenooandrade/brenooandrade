@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
 - 🔭 <b>Currently working</b> as System Development System at Encora inc. taking up great technicals challenges in cloud computing and working with software development projects.
 - 👨🏻‍💼 <b>High capacity</b> to integrate software solutions with partners and APIs using any architecture. 
-- ⚡ <b>Skills in</b> TypeScript, NodeJS, REST APIs, MySQL, Oracle, Firebird, AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP, Python,  Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
-- 💎 <b>Improving</b> my knowledge in DevOps concepts like Kubernetes, CI/CD pieplines, Jenkins and distributed cloud computing.
+- ⚡ <b>Skills in</b> TypeScript, NodeJS, Angular, Docker, Kubernetes, Elastic Stack, CI/CD pipelines, REST APIs, SOAP APIs, NoSQL (MongoDB, DynamoDB and Elastic Search), Relational Databases such (MySQL, Oracle, Firebird and SQL Server), AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP (Compute Engine, GKE, Cloud Functions), Python, Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
+- 💎 <b>Improving</b> my knowledge in DevOps concepts like Kubernetes, CI/CD pipelines, Jenkins and distributed cloud computing.
 - 🎯 <b>Currently focusing</b> on studying serverless and microservices through cloud computing.
 - 💬 <b>Can I help you?</b> So, contact me! I always think we can learn and teach everyday with anyone.
 <br>   
