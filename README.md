@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
-- 🔭 <b>Currently working on</b>Encora inc. as a System Development Specialist.
+- 🔭 <b>Currently working on</b> Encora inc. as a System Development Specialist.
 - 👨🏻‍💼 <b>High capacity</b> to integrate software solutions with partners and APIs using any architecture. 
 - ⚡ <b>Skills in</b> TypeScript, NodeJS, Angular, Docker, Kubernetes, Elastic Stack, CI/CD pipelines, REST APIs, SOAP APIs, NoSQL (MongoDB, DynamoDB and Elastic Search), Relational Databases such (MySQL, Oracle, Firebird and SQL Server), AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP (Compute Engine, GKE, Cloud Functions), Python, Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
 - 💎 <b>Improving</b> my knowledge in DevOps concepts like Kubernetes, CI/CD pipelines, Jenkins and distributed cloud computing.
