@@ -1,10 +1,9 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
-- 🔭 <b>Currently working on</b> Encora inc. as a System Development Specialist.
-- 👨🏻‍💼 <b>High capacity</b> to integrate software solutions with partners and APIs using any architecture. 
-- ⚡ <b>Skills in</b> TypeScript, NodeJS, Angular, Docker, Kubernetes, Elastic Stack, CI/CD pipelines, REST APIs, SOAP APIs, NoSQL (MongoDB, DynamoDB and Elastic Search), Relational Databases such (MySQL, Oracle, Firebird and SQL Server), AWS (API Gateway, Lambda, S3, EC2, RDS, Microservices architectures and DynamoDB), Delphi, PHP, a little bit about GCP (Compute Engine, GKE, Cloud Functions), Python, Queues, Topics and a few others tecnhlogies that are able to help me to provide good and secure solutions.
-- 💎 <b>Improving</b> my knowledge in DevOps concepts like Kubernetes, CI/CD pipelines, Jenkins and distributed cloud computing.
-- 🎯 <b>Currently focusing</b> on studying serverless and microservices through cloud computing.
-- 💬 <b>Can I help you?</b> So, contact me! I always think we can learn and teach everyday with anyone.
+👋 Hi there! I'm a System Development Specialist at Encora Inc., with a strong focus on integrating software solutions with partners and APIs using any architecture. My experience includes working with TypeScript, NodeJS, Angular, Docker, Kubernetes, Elastic Stack, CI/CD pipelines, REST APIs, SOAP APIs, NoSQL databases (such as MongoDB, DynamoDB, and Elastic Search), and Relational databases (such as MySQL, Oracle, Firebird, and SQL Server). I also have hands-on experience with AWS services, including API Gateway, Lambda, S3, EC2, RDS, and DynamoDB, as well as Delphi, PHP, and a little bit of GCP, Python, Queues, Topics, and other technologies that help me provide good and secure solutions.
+
+🚀 Currently, I'm honing my expertise in DevOps concepts like Kubernetes, CI/CD pipelines, Jenkins, and distributed cloud computing. My primary focus right now is studying serverless and microservices through cloud computing.
+
+💬 I'm always open to connecting with other professionals and learning from them. So, if you have any questions or would like to collaborate, don't hesitate to reach out. Let's learn and grow together!
 <br>   
   <div align="left">
         <div align="center">
