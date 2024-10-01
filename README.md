@@ -1,9 +1,5 @@
 ## 👨🏻‍💻 Breno Andrade - Never stop learning!
-👋 Hi there! I'm a System Development Specialist at Encora Inc., with a strong focus on integrating software solutions with partners and APIs using any architecture. My experience includes working with TypeScript, NodeJS, Angular, Docker, Kubernetes, Elastic Stack, CI/CD pipelines, REST APIs, SOAP APIs, NoSQL databases (such as MongoDB, DynamoDB, and Elastic Search), and Relational databases (such as MySQL, Oracle, Firebird, and SQL Server). I also have hands-on experience with AWS services, including API Gateway, Lambda, S3, EC2, RDS, and DynamoDB, as well as Delphi, PHP, and a little bit of GCP, Python, Queues, Topics, and other technologies that help me provide good and secure solutions.
-
-🚀 Currently, I'm honing my expertise in DevOps concepts like Kubernetes, CI/CD pipelines, Jenkins, and distributed cloud computing. My primary focus right now is studying serverless and microservices through cloud computing.
-
-💬 I'm always open to connecting with other professionals and learning from them. So, if you have any questions or would like to collaborate, don't hesitate to reach out. Let's learn and grow together!
+I bring several years of experience leading development teams, integrating systems, and building software solutions across various industries. My toolkit includes TypeScript, Node.js, Angular, React, Python, Docker, Kubernetes, Elastic Stack, REST APIs, GraphQL, Oracle, SQL Server, NoSQL databases, and AWS services (2x certified).
 <br>   
   <div align="left">
         <div align="center">
