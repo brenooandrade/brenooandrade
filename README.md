@@ -24,18 +24,7 @@ I bring several years of experience leading development teams, integrating syste
   <img align="center" alt="Breno-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
   <img align="center" alt="Breno-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Breno-Delphi" height="35" width="35" src="https://img.icons8.com/officel/40/000000/delphi-ide.png"> 
 </div>
   
 
-  ##
- 
-<div align="center" style="display: inline_block"><br> 
-  <a href = "mailto:andrade.brenonovais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-novais-andrade-b241bba7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discordapp.com/users/brenooandrade#1728" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/brenonandrade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/brenooandrade93" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+
